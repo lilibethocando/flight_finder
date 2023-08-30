@@ -20,7 +20,7 @@ As you cross your fingers for that dreamy low fare, FlightBargain Seeker scans t
 
 ## Let's Get Started!
 
-1. **Clone the Starting Project**: Click [here]([link-to-clone](https://github.com/lilibethocando/flight_finder.git)) to grab the starting project. 
+1. **Clone this repo** (https://github.com/lilibethocando/flight_finder.git).
 
 2. **Own Your Copy of the Google Sheet**: Make a copy of the [Google sheet provided](https://docs.google.com/spreadsheets/d/1YMK-kYDYwuiGZoawQy7zyDjEIU9u8oggCV4H2M9j7os/edit#gid=0) – your canvas for flight exploration.
 
